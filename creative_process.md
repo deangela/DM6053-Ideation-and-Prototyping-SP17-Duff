@@ -17,11 +17,11 @@ Steve Jobs|Valentina &amp; Olivia
 |Zoe &amp; Edan
 |Subigya &amp; Mayukh
 
-
+---
 
 Working in groups of two, you will research, analyze, evaluate, and communicate the research &amp; design processes of a creator from a discipline of your team’s choice. The final form of this research project will be a collaborative annotated bibliography, research paper and video documentary.
 
-Possible Choices (but not limited to):
+Possible C=choices (but not limited to):
 
 *   Sarah Blakely (Spanx)
 *   Richard Branson
