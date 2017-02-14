@@ -4,6 +4,21 @@
 # Creative Process Research Paper & Video Documentary
 
 
+|Subject|Teams|
+---------------
+|Dieter Rams|Gabriella &amp; Payton|
+|Donald Knuth|Ari &amp; Bryce|
+|Donald Norman|Charmaine &amp; Kathleen|
+|Hideo Kojima|Alex &amp; Ryan|
+|Miranda July|Debbi &amp; Katie|
+|Stanley Kubrick|Rose &amp; Emir|
+|Steve Jobs|Jing &amp; Ankit|
+|Steve Jobs|Valentina &amp; Olivia|
+||Zoe &amp; Edan|
+||Subigya &amp; Mayukh|
+
+
+
 Working in groups of two, you will research, analyze, evaluate, and communicate the research &amp; design processes of a creator from a discipline of your team’s choice. The final form of this research project will be a collaborative annotated bibliography, research paper and video documentary.
 
 Possible Choices (but not limited to):

@@ -58,7 +58,6 @@
 <li>Discuss</li> 
     <ul>
     <li>Freewriting (Similar to Journal writing but focuses on a specific idea or question.)</li>
-    
     <li><a href="notebook_or_sketchbook.md">Notebooks and Journals</a></li>
     <li><a href="recommended_resources.md">Recommended Resources</a></li>
     </ul>
@@ -95,6 +94,8 @@
     <td valign="top">
     <ul>
     <li>Discuss President's Day</li>
+    <li><a href="http://www.huffingtonpost.com/entry/courtney-privett-she-persisted_us_589cbd19e4b04061313c3653?ir=Arts&" target="_blank">An example of a variation of a word list or mind map</a></li>
+    <li><a href="http://99u.com/articles/53891/from-personal-project-to-a-40-book-cover-commission" target="_blank">99 U: From Personal Project to 40-Book Cover Commission</a></li>
     <li>Discuss Text vs. Image Storyboard</li>
     <li><a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>      
     <li>Review Homework</li>
