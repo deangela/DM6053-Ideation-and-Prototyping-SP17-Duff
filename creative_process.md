@@ -106,6 +106,8 @@ The process documentary will reveal:
 * Creative Commons Video
   * [http://archive.org](http://archive.org)
 
+**THERE ARE TONS OF FREE FONT RESOURCES ON THE WEB. DONT FORGET ABOUT [TYPEKIT](https://typekit.com) AND [SKYFONTS](http://skyfonts.com/)!** 
+
 ###Recommended Writing Resources
 *   _The Elements of Style_ Fourth Edition by Strunk &amp; White
 *   _The Mac is Not a Typewriter_ by Robin Williams
