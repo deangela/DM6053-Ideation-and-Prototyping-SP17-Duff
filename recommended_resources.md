@@ -87,6 +87,28 @@ _Prototyping_
 *   Make Magazine
 *   [An Incomplete Manifesto for Growth by Bruce Mau](http://www.manifestoproject.it/bruce-mau/)
 
+###Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary
+* Animatic
+  * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
+* Fair Use Media (images / audio /video)
+  * http://creativecommons.org 
+  * https://www.pond5.com/
+* Royalty-Free sound 
+  * [http://freesound.org](http://freesound.org) 
+  * http://freemusicarchive.org
+  * http://ccmixter.org
+  * http://soundbible.com
+  * http://www.audioblocks.com
+  * [http://incompetech.com](http://incompetech.com)
+* Creative Commons Video
+  * [http://archive.org](http://archive.org)
+
+###Recommended Writing Resources
+*   _The Elements of Style_ Fourth Edition by Strunk &amp; White
+*   _The Mac is Not a Typewriter_ by Robin Williams
+*   [How to Write Footnotes and Endnotes in MLA Style](http://www.aresearchguide.com/7footnot.html)
+*   [The OWL at Purdue: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
+*   [The OWL at Purdue: Annotated Bibliographies](https://owl.english.purdue.edu/owl/resource/614/01)
 
 
 
