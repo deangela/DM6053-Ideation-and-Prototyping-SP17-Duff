@@ -14,8 +14,8 @@ Miranda July | Debbi &amp; Katie
 Stanley Kubrick | Rose &amp; Emir
 Steve Jobs | Jing &amp; Ankit
 Steve Jobs | Valentina &amp; Olivia
-| Zoe &amp; Edan
-| Subigya &amp; Mayukh
+Bjork | Zoe &amp; Edan
+Bowie| Subigya &amp; Mayukh
 
 ---
 
