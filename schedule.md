@@ -181,7 +181,7 @@
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
     <ul>
-    <li>Paper Draft</li>
+    <li>Outline of Research Paper</li>
     <li>(if applicable) Animatic Draft</li>
     <li>(if applicable) Hybrid Animatic / Video Draft</li>
     </ul>
@@ -195,6 +195,41 @@
 </tr>
 <tr>
     <td valign="top">wk 8<p>Mar 20</p></td>      
+    <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
+    <ul>
+    <li>Deatiled Outline of Research Paper</li>
+    <li>(if applicable) Animatic Draft</li>
+    <li>(if applicable) Hybrid Animatic / Video Draft</li>
+    </ul>
+    </ul>   
+    </td>
+</tr>
+<tr>
+    <td valign="top">Mar 31 (Fri)</td>
+    <td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td>
+     <td valign="top">Review Homework</td>
+    <td valign="top">
+    <ul>
+    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
+    <ul>
+    <li>Research Paper Draft</li>
+    <li>(if applicable) Animatic Draft</li>
+    <li>(if applicable) Hybrid Animatic / Video Draft</li>
+    </ul>
+    </ul>   
+    </td>
+</tr>
+<tr>
+    <td valign="top">wk 9<p>Mar 27</p></td>
+    
+</tr>
+<tr>
+    <td valign="top">wk 10<p>Apr 3</p></td> 
     <td valign="top">Midterm Class Critique</td>
     <td valign="top">
     <ul>
@@ -212,12 +247,7 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">Mar 31 (Fri)</td>
-    <td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td>
-    <td></td>
-</tr>
-<tr>
-    <td valign="top">wk 9<p>Mar 27</p></td>
+    <td valign="top">wk 11<p>Apr 10</p></td>
     <td valign="top">Review Homework</td>    
     <td valign="top">
     <ul>
@@ -247,43 +277,17 @@
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 10<p>Apr 3</p></td> 
-    <td valign="top">Review Homework</td>  
-    <td valign="top">      
-    <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
-    <ul>
-    <li>Storyboard Draft</li>
-    <li>(OPTIONAL) Lo-fi Prototype Draft</li>
-    </ul>
-    </ul>
-    </td>
-</tr>
-<tr>
-    <td valign="top">wk 11<p>Apr 10</p></td>
-    <td valign="top">Review Homework</td>   
-    <td valign="top">
-    <ul>
-    <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
-    <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
-        <ul>
-        <li>Storyboard Draft</li>
-        <li>Lo-fi Prototype Draft</li>
-        </ul>
-    </ul>
-    </td>
-</tr>
-<tr>
     <td valign="top">wk 12<p>Apr 17</p></td>
     <td valign="top">Review Homework</td> 
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
-    <ul>
-    <li>Lo-fi Prototype Draft</li>
-    </ul></ul>
+        <ul>
+        <li>(Optional) Storyboard Draft</li>
+        <li>Lo-fi Prototype Draft</li>
+        </ul>
+    </ul>
     </td>
 </tr>
 <tr>
@@ -293,7 +297,8 @@
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
-    <li>Hi-Fidelity Prototype Draft</li>
+    <li>Storyboard Draft</li>
+    <li>Lo-fi Prototype Draft</li>
     </ul></ul></td>
 </tr>
 <tr>
