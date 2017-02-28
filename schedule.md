@@ -211,6 +211,10 @@
 <tr>
     <td valign="top">Mar 31 (Fri)</td>
     <td valign="top"><strong><p></p><i>Last Day to Withdraw</i></strong></td>
+    <td></td>
+</tr>
+<tr>
+    <td valign="top">wk 9<p>Mar 27</p></td>
      <td valign="top">Review Homework</td>
     <td valign="top">
     <ul>
@@ -223,10 +227,6 @@
     </ul>
     </ul>   
     </td>
-</tr>
-<tr>
-    <td valign="top">wk 9<p>Mar 27</p></td>
-    
 </tr>
 <tr>
     <td valign="top">wk 10<p>Apr 3</p></td> 
