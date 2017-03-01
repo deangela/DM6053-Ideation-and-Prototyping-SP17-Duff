@@ -7,7 +7,7 @@
 Subject | Teams
 --- | ---
 Dieter Rams | Gabriella &amp; Payton
-Donald Knuth | Ari &amp; Bryce
+Christoph Niemann | Ari &amp; Bryce
 Donald Norman | Charmaine &amp; Kathleen
 Hideo Kojima | Alex &amp; Ryan
 Miranda July | Debbi &amp; Katie
