@@ -236,6 +236,7 @@
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
         <ul>
+        <li>Final Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         <li>Final Research Paper DUE</li>
         </ul></strong>
