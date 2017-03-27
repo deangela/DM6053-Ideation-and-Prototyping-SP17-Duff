@@ -6,8 +6,8 @@
 *Make sure you watch <a href="http://everythingisaremix.info/watch-the-series" target="_blank">Everything Is A Remix</a> before embarking on this assignment.*
 
 Create a narrative timeline thread of influences by either creating: 
+*   an infographic as a pdf (post on your process website) **OR** 
 *	another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website **OR** 
-*	an infographic as a pdf (post on your process website) **OR** 
 *	an interactive data visualization and embed within your process website.
 
 Select a theme of your choosing (Consider using one of the themes below to get you started, but you'll need to get much more specific): 

@@ -239,11 +239,9 @@
         <li>Final Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         <li>Final Research Paper DUE</li>
-        </ul></strong>
-    <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
-        <ul>
-        <li>Ideation</li></ul>
         </ul>
+        </strong>
+    
     </ul>    
     </td>
 </tr>
@@ -253,8 +251,9 @@
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li><a href="narrative_timeline.md">Narrative Timeline</a> for an object as research for your <a href="future.md">Future Dystopia / Utopia Project</a></li>
     <li>Watch <a href="https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008" target="_blank">Ira Glass on storytelling (all 4 parts)</a> and write a response to Ira Glass on Storytelling and post on your process website. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
-    <li>Do <strong>at least one</strong> of the following assignments:</li>
+    <li>Do <strong>at least one</strong> of the following assignments as research for <a href="future.md">Future Dystopia / Utopia Project</a>:</li>
             <ol>
             <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
                 <ul>
@@ -269,7 +268,7 @@
             </li></ol>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
     <ul>
-    <li>Ideation continued</li>
+    <li>Ideation (Brainstorming)</li>
     <li>Storytelling</li>
     <li>Sketching and Mapping</li>
     <li>Secondary Research</li>
