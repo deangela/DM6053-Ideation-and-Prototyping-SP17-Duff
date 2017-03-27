@@ -234,14 +234,19 @@
     <td valign="top">
     <ul>
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
+    <li></li>
     <strong><li><a href="creative_process.md">Creative Process Research Paper and Video Documentary</a></li>
         <ul>
         <li>Final Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         <li>Final Research Paper DUE</li>
         </ul>
+    <li>Handed out in class on paper and pinned on slack digitally. Turn in via direct message on slack as a pdf (make sure your name is in the filename) or hand in on paper. Your preference.</li>
+    <ul>
+    <li>Midterm Rubric</li>
+    <li>Midterm Self Reflection</li>
+    </ul>
         </strong>
-    
     </ul>    
     </td>
 </tr>
