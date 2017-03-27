@@ -240,8 +240,9 @@
         <li>Final Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         <li>Final Research Paper DUE</li>
-        </ul>
+        </ul></strong>
     <li>Handed out in class on paper and pinned on slack digitally. Turn in via direct message on slack as a pdf (make sure your name is in the filename) or hand in on paper. Your preference.</li>
+    <strong>
     <ul>
     <li>Midterm Rubric</li>
     <li>Midterm Self Reflection</li>
