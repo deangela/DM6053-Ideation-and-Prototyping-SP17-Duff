@@ -11,7 +11,7 @@ Create a narrative timeline thread of influences by either creating:
 *	an interactive data visualization and embed within your process website.
 
 Select a theme of your choosing (Consider using one of the themes below to get you started, but you'll need to get much more specific): 
-* Find & research a subset of this theme (something of interest to you) where you can show a narrative timeline thread of influences. 
+* Find & research a subset of this theme (something of interest to you) where you can show a narrative timeline thread of influences of at least 3 iterations. 
 
 ---
 Possible Themes:

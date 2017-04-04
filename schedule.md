@@ -288,8 +288,8 @@
     </ul>
     <li>(OPTIONAL) Research, Sketch, Map & Design</li>
     <ul>
-    <li>Medium of Final Message</li>
     <li>Object(s)</li>
+    <li>Medium of Final Message</li>
         <ul>
     </ul>  
     </td>
