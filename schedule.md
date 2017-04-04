@@ -343,7 +343,7 @@
     <td valign="top"></td>
     <td valign="top"><strong><p>May 9 (Tue), May 10 (Wed), May 11 (Thu), or May 12 (Fri)</p> Final one on one appointments
         <ul>
-        <li>Schedule at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+        <li>Schedule a 30 min appointment at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
         <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables Due</a></li>
         </ul></strong>
     </td>
