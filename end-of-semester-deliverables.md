@@ -8,7 +8,8 @@
 
 <ul>
 <li>Future Dystopia Utopia Documentation (which is different for every student)</li>
-<li>Creative Process Annotated Bibliography &amp; Video Documentary (.mov, .mp4, etc)</li>
+<li>Creative Process Research Paper and Annotated Bibliography as pdf(s)</li>
+<li>Creative Process Video Documentary (.mov, .mp4, etc)</li>
 <li>Personal Inventory</li>
 <li>Classmate Discovery</li>
 <li>Narrative Timeline</li>
