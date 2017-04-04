@@ -263,9 +263,9 @@
             <li>Write down one thing you found in an object or other interaction (experience) this week that needs to be fixed or improved in some way.</li>
                 <ul>
                 <li>Ask the 5 why questions. Take notes.</li>
-                <li>Write a narrative imagining how this interaction could be improved.</li>
+                <li>Write a narrative imagining how this interaction could be improved in the context of your <a href="future.md">Future Dystopia / Utopia Project</a>.</li>
                 </ul>
-            <li>For 3 to 5 days, record, snap, write down no less than 20 things each day that reveal themselves as appropriation material.</li>
+            <li>For 3 to 5 days, record, snap, write down no less than 20 things (OVER the course of the 3 to 5 days; not all on one day) that reveal themselves as appropriation material for your <a href="future.md">Future Dystopia / Utopia Project</a>.</li>
                 <ul>
                 <li>Pick one of these and use the SCAMPER Technique to come up with ideas for creating something new from each one.</li>
                 </ul>
@@ -274,10 +274,23 @@
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
     <ul>
     <li>Ideation (Brainstorming)</li>
-    <li>Storytelling</li>
-    <li>Sketching and Mapping</li>
-    <li>Secondary Research</li>
+    <ul>
+    <li>What message would you send? </li>
+    <li>How would you send it?</li>
+    <li>What does it look, sound, and feel like?</li>
     </ul>
+    <li>Storytelling</li>
+    <ul>
+    <li>How many years in the future is it?</li>
+    <li>Is it a utopia or dystopia?</li>
+    <li>What thematic context is your message based on (consult list on <a href="future.md">Future Dystopia / Utopia Project</a>.) 
+    <li>What does your imagined future look, sound, and feel like?</li>
+    </ul>
+    <li>(OPTIONAL) Research, Sketch, Map & Design</li>
+    <ul>
+    <li>Medium of Final Message</li>
+    <li>Object(s)</li>
+        <ul>
     </ul>  
     </td>
 </tr>
