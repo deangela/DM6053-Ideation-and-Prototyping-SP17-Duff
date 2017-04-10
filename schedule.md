@@ -312,6 +312,11 @@
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
+        <li>Research, Sketch, Map & Design</li>
+            <ul>
+            <li>Object(s)</li>
+            <li>Medium of Final Message</li>
+            <ul>
         <li>(Optional) Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
         </ul>
