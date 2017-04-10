@@ -296,6 +296,16 @@
     </td>
 </tr>
 <tr>
+    <td valign="top"></td>
+    <td valign="top"><strong><p>Apr 11 (Tue), Apr 12 (Wed), Apr 13 (Thu), Apr 14 (Fri), or Mon Apr 17</p>Midterm one on one appointments
+        <ul>
+        <li>Schedule a 30 min appointment at <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+        <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables Due</a></li>
+        </ul></strong>
+    </td>
+    <td></td>
+</tr>
+<tr>
     <td valign="top">wk 12<p>Apr 17</p></td>
     <td valign="top">Review Homework</td> 
     <td valign="top">
