@@ -344,7 +344,7 @@
     <ul>
     <li>Iterate Framing Story</li>
         <li>Iterate Message</li>
-        <li>Hi-Fidelity Prototype Draft</li>
+        <li><strong>Hi-Fidelity Prototype Draft</strong></li>
         <li>Iterate Storyboard Draft of Delivery Medium(s)</li>
     </ul></ul></td>
 </tr>
