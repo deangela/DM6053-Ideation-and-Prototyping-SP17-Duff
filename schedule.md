@@ -312,14 +312,12 @@
     <li>(if applicable this week) <a href="constant_input_choices.md">constant input</a></li>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
         <ul>
+        <li>Iterate Framing Story</li>
         <li>Iterate Message</li>
-        <li>Research, Sketch, Map &amp; Design</li>
-            <ul>
-            <li>Object(s)</li>
-            <li>Medium of Final Message</li>
-            <ul>
-        <li>(Optional) Storyboard Draft</li>
-        <li>Lo-fi Prototype Draft</li>
+        <li>Research, Sketch, Map &amp; Design Object(s)</li>
+        <li>Lo-fi Prototype Draft of Object(s)</li>
+        <li>(Optional) Storyboard Draft of Delivery Medium(s)</li>
+        <li></li>
         </ul>
     </ul>
     </td>
@@ -331,8 +329,10 @@
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
-    <li>Storyboard Draft</li>
-    <li>Lo-fi Prototype Draft</li>
+     <li>Iterate Framing Story</li>
+        <li>Iterate Message</li>
+        <li>Lo-fi Prototype Draft of Object(s)</li>
+        <li>Storyboard Draft of Delivery Medium(s)</li>
     </ul></ul></td>
 </tr>
 <tr>
@@ -342,7 +342,10 @@
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project</a></li>
     <ul>
-    <li>Hi-Fidelity Prototype Draft</li>
+    <li>Iterate Framing Story</li>
+        <li>Iterate Message</li>
+        <li>Hi-Fidelity Prototype Draft</li>
+        <li>Iterate Storyboard Draft of Delivery Medium(s)</li>
     </ul></ul></td>
 </tr>
 <tr>
