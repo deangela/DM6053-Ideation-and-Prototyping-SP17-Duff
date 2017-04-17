@@ -315,9 +315,9 @@
         <li>Iterate Framing Story</li>
         <li>Iterate Message</li>
         <li>Research, Sketch, Map &amp; Design Object(s)</li>
-        <li>Lo-fi Prototype Draft of Object(s)</li>
+        <li><strong>Lo-fi Prototype Drafts of Object(s)</strong></li>
         <li>(Optional) Storyboard Draft of Delivery Medium(s)</li>
-        <li></li>
+       
         </ul>
     </ul>
     </td>
@@ -331,7 +331,7 @@
     <ul>
      <li>Iterate Framing Story</li>
         <li>Iterate Message</li>
-        <li>Lo-fi Prototype Draft of Object(s)</li>
+        <li>Lo-fi Prototype Drafts of Object(s)</li>
         <li>Storyboard Draft of Delivery Medium(s)</li>
     </ul></ul></td>
 </tr>
