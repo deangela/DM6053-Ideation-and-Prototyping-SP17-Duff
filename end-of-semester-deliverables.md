@@ -4,7 +4,7 @@
 # END OF SEMESTER DELIVERABLES
 
  
-##Create a google drive folder, "Your Name" I&P Spring 2017, and share with deangela.duff@nyu.edu
+##Create a google drive folder, "Your Name" I&P Spring 2017, and put the following digital files in this folder and share with deangela.duff@nyu.edu
 
 <ul>
 <li>Future Dystopia Utopia Documentation (which is different for every student)</li>
