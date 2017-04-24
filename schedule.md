@@ -369,7 +369,6 @@
 </tr>
 </table>
 
-Guest Speaker or Field Trip TBD
 
 
 
