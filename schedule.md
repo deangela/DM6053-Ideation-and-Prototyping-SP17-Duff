@@ -354,6 +354,7 @@
     <td valign="top"><strong>
     <ul>
     <li><a href="future.md">Future Dystopia / Utopia Project DUE</a></li>
+    <li>Guest Critic: Sundar Raman from <a href="https://localprojects.net/" target="_blank">Local Projects</a></li>
     </ul></strong>
     </td>
 </tr>
