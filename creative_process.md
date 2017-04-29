@@ -114,3 +114,4 @@ The process documentary will reveal:
 *   [How to Write Footnotes and Endnotes in MLA Style](http://www.aresearchguide.com/7footnot.html)
 *   [The OWL at Purdue: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
 *   [The OWL at Purdue: Annotated Bibliographies](https://owl.english.purdue.edu/owl/resource/614/01)
+* [Citing Social Media](http://gouldguides.carleton.edu/citation/social)
