@@ -111,6 +111,10 @@ _Prototyping_
 *   [The OWL at Purdue: Annotated Bibliographies](https://owl.english.purdue.edu/owl/resource/614/01)
 
 
+_Inspiration for Prototyping_
 
+* Japanese Artist Transforms Old Amazon Cardboard Boxes into Amazing Sculptures
+http://mymodernmet.com/amazon-cardboard-box-art-monami-ohno/
 
-
+* Modern Blackout Curtains Turn Windows into Penthouse Views of a City at Night
+http://mymodernmet.com/unique-window-blinds-shadow-art/
