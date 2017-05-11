@@ -73,7 +73,8 @@ _Prototyping_
 
 **Recommended Media**
 
-*   [Afrigadget](http://www.afrigadget.com)
+* [Afrigadget](http://www.afrigadget.com)
+* [The Creative Independent](https://thecreativeindependent.com)
 *   Brown, Tim. “[Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf)” Harvard Business Review. June 2008. 
 *   Citizen Architect, Sam Mockbee &amp; Rural Studio –http://video.pbs.org/program/1548466406
 *   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
